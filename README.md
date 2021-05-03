@@ -21,7 +21,7 @@ At this time, we are accepting communities which meet the following criteria:
 
     * Logo dimensions should be either `72x72` for SVG or `144x144` for PNG.
     * Logo should be minified.
-    * Logo should be monochromatic and white (check [the website](https://discord.com/open-source) for examples)
+    * Logo should be monochromatic and white (check [the website](http://www.thenavigo.com/os) for examples)
     * SVGs should contain only vector shapes — no raster graphics.
 
 3.  Add your community to [`communities.json`](https://github.com/patbi/thenavigo-open-source/blob/main/communities.json), like so:
