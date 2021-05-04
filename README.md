@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/patbi/thenavigo-open-source">
-    <img height="128" width="128" src="https://github.com/patbi/thenavigo-open-source/blob/main/logos/Tnvgok.png">
+    <img src="https://github.com/patbi/thenavigo-open-source/blob/main/logos/Tnvgok.png">
   </a>
 </p>
 
