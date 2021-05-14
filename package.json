@@ -1,0 +1,27 @@
+{
+  "name": "thenavigo-open-source",
+  "version": "1.0.0",
+  "description": "Thenavigo is an online Q&A community. It is built conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety topics.",
+  "main": "communities.json",
+  "scripts": {
+    "test": "npm run fmt-check && npm run validate-codes",
+    "validate-codes": "node ./validate.js",
+    "fmt-check": "prettier -c communities.json || (npm run fmt && git diff && exit 1)",
+    "fmt": "prettier --write communities.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patbi/thenavigo-open-source.git"
+  },
+  "author": "Patrick Biyaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patbi/thenavigo-open-source/issues"
+  },
+  "homepage": "https://github.com/patbi/thenavigo-open-source#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.3.0"
+  }
+}
