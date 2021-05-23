@@ -77,10 +77,7 @@ Don't forget to give a star :star: for this repo :slightly_smiling_face:
 ### Supporting diverse data platforms
    Platform  | Accessible
 ------------ | -------------
-[Comming soon :) ...](Comming soon :) ...) | :+1:
-[Comming soon :) ...](Comming soon :) ...) | On Developing :zap:
-[Comming soon :) ...) | Future Support :star:
-[Comming soon :) ...](Comming soon :) ...) | On Developing :zap:
+[Amazon Web Service (AWS)](https://aws.amazon.com/) | On Developing :zap:
 
 
 
