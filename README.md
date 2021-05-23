@@ -115,9 +115,9 @@ Don't forget to give a star :star: for this repo :slightly_smiling_face:
   * [Sass](http://sass-lang.com/) CSS with superpowers. Sass boasts more features and abilities than any other CSS extension language out there.
   * [InversifyJS](http://inversify.io/) InversifyJS is a lightweight (4KB) inversion of control (IoC) container for TypeScript and JavaScript apps. A IoC container uses a class constructor to identify and inject its dependencies.
   * [create-react-app](https://github.com/facebook/create-react-app) Create React App is a tool built by developers at Facebook to help you build React applications. It saves you from time-consuming setup and configuration. You simply run one command and create react app sets up the tools you need to start your React project.
-  * [Thenavigo discord](https://discord.gg/G9UnYJ7N).
-  * [Thenavigo newsletter](https://thenavigo.substack.com/).
-  * [Thenavigo youtube channel](https://www.youtube.com/channel/UCN9JGmK1NACRoXS0nwlh9UA).
+  * [Thenavigo discord](https://discord.gg/G9UnYJ7N) :writing_hand: Thenavigo is an online Q&A community. It is built on a friendly and conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, bringing a flow of quality information to the community. :writing_hand:. 
+  * [Thenavigo newsletter](https://thenavigo.substack.com/) :writing_hand: Thenavigo is an online Q&A community. It is built on a friendly and conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, bringing a flow of quality information to the community. :writing_hand:.
+  * [Thenavigo youtube channel](https://www.youtube.com/channel/UCN9JGmK1NACRoXS0nwlh9UA) :writing_hand: Thenavigo is an online Q&A community. It is built on a friendly and conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, bringing a flow of quality information to the community. :writing_hand:.
 
 
 
