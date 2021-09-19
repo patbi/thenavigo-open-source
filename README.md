@@ -77,24 +77,31 @@ Don't forget to give a star :star: for this repo :slightly_smiling_face:
 ### Supporting diverse data platforms
    Platform  | Accessible
 ------------ | -------------
+[Heroku](https://heroku.com/) | :+1:
 [Amazon Web Service (AWS)](https://aws.amazon.com/) | On Developing :zap:
 
 
 
 ## :heart: Contributing :heart:
 
- Comming soon :) ...
+[Thenavigo](http://www.thenavigo.com) has been made by love:heart:. I planed to build a back-end for this project and improve the performance as I process all procedures on the front-end side. If you'd like to help,
+check out the [document](https://app.gitbook.com/@biyagapatrick/s/thenavigo/thenavigo).
+I'd greatly appreciate any [contribution](https://github.com/patbi/thenavigo-open-source/blob/main/CONTRIBUTING.md)
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available.
 
 
 ## Authors
 
   - Patrick Biyaga
-  - See also the list of [contributors]() who participated in this project.
+  - See also the list of [contributors](https://discord.gg/5NTBv8C5) who participated in this project.
 
 
 
 ## How To Support
-- [Contribution]()
+- [Contribution](https://github.com/patbi/thenavigo-open-source/blob/main/CONTRIBUTING.md)
 - Fork || Star
 
 
@@ -120,8 +127,30 @@ Don't forget to give a star :star: for this repo :slightly_smiling_face:
   * [Thenavigo youtube channel](https://www.youtube.com/channel/UCN9JGmK1NACRoXS0nwlh9UA) :writing_hand: Thenavigo is an online Q&A community. It is built on a friendly and conscientious atmosphere, connecting elites from all sectors. They share their expertise, experience and knowledge on a variety of topics, bringing a flow of quality information to the community. :writing_hand:.
 
 
+## Example
+
+[Thenavigo](http://www.thenavigo.com/)
+
+## Required Knowledge
+
+I recommend that you get to know React before. Thenavigo has built by React components, so understanding how React fits into web development is important.
+
+(If you're not familiar with the concept of Single Page Applications (SPAs), head over to the [here](https://www.codeschool.com/beginners-guide-to-web-development/single-page-applications) for a quick introduction before you read on.
+
+
 
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/patbi/thenavigo-open-source/blob/main/LICENSE) file for details
+
+
+
+
+
+## Acknowledgments
+
+* React
+* MongoDB
+* JavaScript
+* TypeScript
